@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #1bc2fa;
+}
+
+h1,
+h3,
+p {
+  text-align: center;
+  font-size: 24px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+section {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+thead {
+  background-color: grey;
+  color: whitesmoke;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+tbody,
+tfoot {
+  background-color: grey;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+iframe {
+  max-width: 100%;
+  height: auto;
+}
