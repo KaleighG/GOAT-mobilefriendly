@@ -1,4 +1,4 @@
-body {
+.body {
   background-color: black;
   margin: 0;
   padding: 0;
@@ -6,25 +6,25 @@ body {
   color: #1bc2fa;
 }
 
-h1,
-h3,
-p {
+.h1,
+.h3,
+.p {
   text-align: center;
   font-size: 24px;
 }
 
-img {
+.img {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
 }
 
-section {
+.section {
   padding: 20px;
 }
 
-table {
+.bordered-table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
